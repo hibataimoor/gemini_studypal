@@ -1,0 +1,19 @@
+# .streamlit/config.toml
+
+[theme]
+# Primary accent color
+primaryColor="#87b4f2ff" 
+
+# Background color (Clean White)
+backgroundColor="#FFFFFF" 
+
+# Secondary background color (Light Gray/Off-White for sidebar/widgets)
+secondaryBackgroundColor="#F0F2F6" 
+
+# Text color (A near-black for high readability)
+textColor="#262627ff" 
+
+# Font choice
+font="sans serif"
+
+base="light" 

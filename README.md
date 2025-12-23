@@ -18,7 +18,7 @@ Gemini StudyPal provides a few core study tools, accessible via tabs after uploa
 ### 1. Prerequisites
 
 * Python (3.9+)
-* A Gemini API Key (Obtain one from [Google AI Studio])
+* A Gemini API Key (Obtain one from Google AI Studio)
 
 ### 2. Clone the Repository & Install Prerequisites
 ```bash
